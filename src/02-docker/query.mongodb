@@ -1,0 +1,11 @@
+use("platzi_store")
+
+// example products
+// db.products.insert(
+//     {
+//         "name": "Coca Cola",
+//         "price": 1.7,
+//         "category": "Bebidas"
+//     }
+// )
+db.products.find()
